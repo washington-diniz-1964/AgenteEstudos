@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Washington\\Projetos C#\\AgenteEstudos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90D4D211-88C5-E9A5-D5B3-51AA478F4C4E}|src\\AgenteEstudos.Console\\AgenteEstudos.Console.csproj|c:\\users\\washington\\projetos c#\\agenteestudos\\src\\agenteestudos.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D4D211-88C5-E9A5-D5B3-51AA478F4C4E}|src\\AgenteEstudos.Console\\AgenteEstudos.Console.csproj|solutionrelative:src\\agenteestudos.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D4D211-88C5-E9A5-D5B3-51AA478F4C4E}|src\\AgenteEstudos.Console\\AgenteEstudos.Console.csproj|c:\\users\\washington\\projetos c#\\agenteestudos\\src\\agenteestudos.console\\models\\analiseerroresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D4D211-88C5-E9A5-D5B3-51AA478F4C4E}|src\\AgenteEstudos.Console\\AgenteEstudos.Console.csproj|solutionrelative:src\\agenteestudos.console\\models\\analiseerroresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90D4D211-88C5-E9A5-D5B3-51AA478F4C4E}|src\\AgenteEstudos.Console\\AgenteEstudos.Console.csproj|c:\\users\\washington\\projetos c#\\agenteestudos\\src\\agenteestudos.console\\agenteestudos.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{90D4D211-88C5-E9A5-D5B3-51AA478F4C4E}|src\\AgenteEstudos.Console\\AgenteEstudos.Console.csproj|solutionrelative:src\\agenteestudos.console\\agenteestudos.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -19,11 +27,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AgenteEstudos.Console",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Washington\\Projetos C#\\AgenteEstudos\\src\\AgenteEstudos.Console\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AgenteEstudos.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\Washington\\Projetos C#\\AgenteEstudos\\src\\AgenteEstudos.Console\\Program.cs",
+              "RelativeToolTip": "src\\AgenteEstudos.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T19:45:16.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaliseErroResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Washington\\Projetos C#\\AgenteEstudos\\src\\AgenteEstudos.Console\\Models\\AnaliseErroResponse.cs",
+              "RelativeDocumentMoniker": "src\\AgenteEstudos.Console\\Models\\AnaliseErroResponse.cs",
+              "ToolTip": "C:\\Users\\Washington\\Projetos C#\\AgenteEstudos\\src\\AgenteEstudos.Console\\Models\\AnaliseErroResponse.cs",
+              "RelativeToolTip": "src\\AgenteEstudos.Console\\Models\\AnaliseErroResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T19:43:00.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgenteEstudos.Console.csproj",
               "DocumentMoniker": "C:\\Users\\Washington\\Projetos C#\\AgenteEstudos\\src\\AgenteEstudos.Console\\AgenteEstudos.Console.csproj",
               "RelativeDocumentMoniker": "src\\AgenteEstudos.Console\\AgenteEstudos.Console.csproj",
-              "ToolTip": "C:\\Users\\Washington\\Projetos C#\\AgenteEstudos\\src\\AgenteEstudos.Console\\AgenteEstudos.Console.csproj*",
-              "RelativeToolTip": "src\\AgenteEstudos.Console\\AgenteEstudos.Console.csproj*",
+              "ToolTip": "C:\\Users\\Washington\\Projetos C#\\AgenteEstudos\\src\\AgenteEstudos.Console\\AgenteEstudos.Console.csproj",
+              "RelativeToolTip": "src\\AgenteEstudos.Console\\AgenteEstudos.Console.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-02-22T18:58:02.385Z",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgenteEstudos.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+951242662fdf39d817602c29abee88abe1b13d73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+948575aab7bfa50c039dbc2227ce1e1a0b529f21")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgenteEstudos.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgenteEstudos.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
