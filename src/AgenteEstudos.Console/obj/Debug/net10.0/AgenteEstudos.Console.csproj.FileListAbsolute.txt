@@ -1,0 +1,15 @@
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\bin\Debug\net10.0\AgenteEstudos.Console.exe
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\bin\Debug\net10.0\AgenteEstudos.Console.deps.json
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\bin\Debug\net10.0\AgenteEstudos.Console.runtimeconfig.json
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\bin\Debug\net10.0\AgenteEstudos.Console.dll
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\bin\Debug\net10.0\AgenteEstudos.Console.pdb
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\obj\Debug\net10.0\AgenteEstudos.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\obj\Debug\net10.0\AgenteEstudos.Console.AssemblyInfoInputs.cache
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\obj\Debug\net10.0\AgenteEstudos.Console.AssemblyInfo.cs
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\obj\Debug\net10.0\AgenteEstudos.Console.csproj.CoreCompileInputs.cache
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\obj\Debug\net10.0\AgenteEstudos.Console.sourcelink.json
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\obj\Debug\net10.0\AgenteEstudos.Console.dll
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\obj\Debug\net10.0\refint\AgenteEstudos.Console.dll
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\obj\Debug\net10.0\AgenteEstudos.Console.pdb
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\obj\Debug\net10.0\AgenteEstudos.Console.genruntimeconfig.cache
+C:\Users\Washington\Projetos C#\AgenteEstudos\src\AgenteEstudos.Console\obj\Debug\net10.0\ref\AgenteEstudos.Console.dll
